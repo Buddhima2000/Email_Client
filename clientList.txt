@@ -1,0 +1,7 @@
+Office_friend: buddhima,buddhimathamara@gmail.com,clerk,2000/09/19
+Office_friend: Thamara,buddhimathamara@gmail.com,clerk,2022/08/14
+Personal: kasun,kassa,buddhimathamara5@gmail.com,2000/09/19
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Supun,Supun@gmail.com,clerk,2000/09/12
+Personal: Ravija,raviJ,hpravija@gmail.com,2000/12/01
+Official: isuru,isuru@gmail.com,ceo
